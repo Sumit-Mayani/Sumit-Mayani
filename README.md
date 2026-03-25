@@ -1,79 +1,62 @@
 <div align="center">
 
-<!-- ===== HEADER ===== -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi+I'm+Sumit+Mayani&fontSize=50&animation=fadeIn)
+<!-- ===== PROJECT BANNER ===== -->
+![Banner](https://img.shields.io/badge/Sumit_Mayani-Project-6C63FF?style=for-the-badge)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=600&lines=Frontend+Developer;JavaScript+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+### Config files for my GitHub profile.
 
-<!-- ===== ABOUT ME ===== -->
-### 🚀 About Me
-I'm a passionate Frontend Developer focused on creating beautiful, responsive web applications.
-Currently building innovative solutions using modern JavaScript frameworks.
-Always eager to learn new technologies and contribute to open source.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-success?style=for-the-badge&logo=netlify&logoColor=white)](https://sumit-mayani.github.io/Sumit-Mayani)
 
-<!-- ===== CURRENTLY BUILDING ===== -->
-### 🛠️ Currently Building
-![WIP](https://img.shields.io/badge/WIP-Current_Projects-ff69b4?style=for-the-badge&logo=github&logoColor=white)
-Working on exciting frontend projects and expanding my portfolio with Next.js and React!
+<div align="left">
+
+<!-- ===== SCREENSHOTS ===== -->
+### 📸 Screenshots
+![Screenshot Placeholder](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
 
 <!-- ===== TECH STACK ===== -->
-### 🤝 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### 🛠️ Tech Stack Used
+![JavaScript](https://img.shields.io/badge/JavaScript-Color?style=for-the-badge&logo=javascript&logoColor=white)
 
-<!-- ===== FEATURED PROJECTS ===== -->
-### 🌟 Featured Projects
+<!-- ===== FEATURES ===== -->
+### ✨ Features
+- ⚡ Fast and responsive design
+- 📱 Mobile-first approach
+- 🎨 Modern and clean UI
+- 🔒 Secure and optimized
+- 🌐 Cross-browser compatible
 
-#### [translation-key-purge](https://github.com/Sumit-Mayani/translation-key-purge)
-Translation key purge
-<br/>
-![Tech](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge)
-[Live Demo](#) <!-- Replace with actual link -->
+<!-- ===== INSTALLATION ===== -->
+### 🚀 Installation Steps
 
-#### [nextjs-mongoose-crud](https://github.com/Sumit-Mayani/nextjs-mongoose-crud)
-A cool project by Sumit-Mayani.
-<br/>
-![Tech](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge)
-[Live Demo](#) <!-- Replace with actual link -->
+1. Clone the repository
+```bash
+git clone https://github.com/Sumit-Mayani/Sumit-Mayani.git
+```
+2. Navigate to the directory
+```bash
+cd Sumit-Mayani
+```
+3. Install dependencies
+```bash
+npm install
+```
+4. Start the development server
+```bash
+npm run dev
+```
 
-#### [react-redux-RTK](https://github.com/Sumit-Mayani/react-redux-RTK)
-React-Redux Toolkit RTQ
-<br/>
-![Tech](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge)
-[Live Demo](#) <!-- Replace with actual link -->
+<!-- ===== USAGE ===== -->
+### 📖 Usage
+After starting the development server, open `http://localhost:3000` in your browser. You can start editing the source files, and the browser will auto-update.
 
-<!-- ===== GITHUB STATS ===== -->
-### 📊 GitHub Stats
+<!-- ===== CONTRIBUTING ===== -->
+### 🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Mayani&show_icons=true&theme=tokyonight" alt="Sumit-Mayani GitHub Stats" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Mayani&theme=tokyonight" alt="Sumit-Mayani GitHub Streak" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Mayani&layout=compact&theme=tokyonight" alt="Sumit-Mayani Top Languages" height="195"/>
+<!-- ===== LICENSE ===== -->
+### 📜 License
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+This project is licensed under the MIT License.
+
 </div>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Mayani&theme=tokyo-night)
-
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-### 🐍 Contribution Grid
-![Snake animation](https://github.com/Sumit-Mayani/Sumit-Mayani/blob/output/github-contribution-grid-snake.svg)
-
-<!-- ===== CONNECT WITH ME ===== -->
-### 📫 Connect With Me
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<!-- ===== VISITOR COUNTER ===== -->
-### 🌐 Profile Visitors
-![Visitors](https://komarev.com/ghpvc/?username=Sumit-Mayani&color=blueviolet&style=for-the-badge)
-
-<!-- ===== FOOTER ===== -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
 </div>
