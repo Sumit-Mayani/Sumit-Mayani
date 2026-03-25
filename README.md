@@ -1,11 +1,11 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
 <!-- ===== TECH STACK ICONS ===== -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vue,mongodb,ts,js&theme=dark" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 <!-- ===== HEADER ===== -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=121212&fontColor=1DB954&height=200&text=Hi+I'm+Sumit+Mayani&fontSize=50&animation=fadeIn)
