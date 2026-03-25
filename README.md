@@ -3,8 +3,13 @@
 <!-- ===== TOP GIF ===== -->
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
+<!-- ===== TECH STACK ICONS ===== -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vue,mongodb,ts,js&theme=dark" />
+</p>
+
 <!-- ===== HEADER WAVE ===== -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=F5C518&fontColor=0A0A0A&height=220&text=Sumit%20Mayani&fontSize=55&fontAlignY=40&desc=Frontend%20Developer&descAlignY=65&descSize=22&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=F5C518&fontColor=0A0A0A&height=220&text=Sumit%20Mayani&fontSize=55&fontAlignY=40&desc=Next.js%20%7C%20React.js%20%7C%20Node.js%20%7C%20Vue.js%20%7C%20MongoDB%20%7C%20MERN%20%7C%20TypeScript%20%7C%20JavaScript&descAlignY=65&descSize=16&animation=fadeIn)
 
 <!-- ===== TYPING SVG ===== -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=F5C518&background=0A0A0A00&center=true&vCenter=true&width=700&lines=Next.js+%7C+React.js+%7C+Node.js+%7C+Vue.js;MongoDB+%7C+MERN+Stack+%7C+TypeScript;Building+Beautiful+Web+Experiences+%E2%9A%A1)](https://git.io/typing-svg)
@@ -18,9 +23,8 @@
 
 ```js
 const sumit = {
-  role     : "Frontend Developer",
-  focus    : ["Next.js", "React.js", "Node.js", "Vue.js"],
-  database : "MongoDB",
+  stack    : ["Next.js", "React.js", "Node.js", "Vue.js", "MongoDB", "MERN"],
+  languages: ["TypeScript", "JavaScript", "HTML5", "CSS3", "Sass"],
   passion  : "Crafting beautiful, responsive web apps",
   motto    : "Always learning. Always building. Always shipping."
 };
@@ -118,17 +122,13 @@ const sumit = {
 <!-- ===== GITHUB STATS ===== -->
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Mayani&show_icons=true&bg_color=0A0A0A&title_color=F5C518&text_color=FFFFFF&icon_color=F5C518&border_color=F5C518&border_radius=10" alt="GitHub Stats" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Mayani&background=0A0A0A&stroke=F5C518&ring=F5C518&fire=F5C518&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F5C518&sideLabels=F5C518&dates=AAAAAA&border=F5C518&border_radius=10" alt="GitHub Streak" height="180"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Sumit-Mayani&show_icons=true&bg_color=0A0A0A&title_color=F5C518&text_color=FFFFFF&icon_color=F5C518&border_color=F5C518&border_radius=10" alt="GitHub Stats" height="180"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Mayani&background=0A0A0A&stroke=F5C518&ring=F5C518&fire=F5C518&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F5C518&sideLabels=F5C518&dates=AAAAAA&border=F5C518&border_radius=10" alt="GitHub Streak" height="180"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Mayani&layout=compact&bg_color=0A0A0A&title_color=F5C518&text_color=FFFFFF&icon_color=F5C518&border_color=F5C518&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Mayani&layout=compact&bg_color=0A0A0A&title_color=F5C518&text_color=FFFFFF&icon_color=F5C518&border_color=F5C518&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
 
 <br/>
 
