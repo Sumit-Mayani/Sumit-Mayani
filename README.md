@@ -121,25 +121,6 @@ const sumit = {
 
 <br/>
 
----
-
-<!-- ===== GITHUB STATS ===== -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Mayani&show_icons=true&bg_color=0A0A0A&title_color=F5C518&text_color=FFFFFF&icon_color=F5C518&border_color=F5C518&border_radius=10" alt="GitHub Stats" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Mayani&background=0A0A0A&stroke=F5C518&ring=F5C518&fire=F5C518&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F5C518&sideLabels=F5C518&dates=AAAAAA&border=F5C518&border_radius=10" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Mayani&layout=compact&bg_color=0A0A0A&title_color=F5C518&text_color=FFFFFF&icon_color=F5C518&border_color=F5C518&border_radius=10&langs_count=8" alt="Top Languages" height="170"/>
-</p>
-
-<br/>
-
----
-
 <!-- ===== ACTIVITY GRAPH ===== -->
 ## 📈 Contribution Graph
 
