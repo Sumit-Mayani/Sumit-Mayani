@@ -1,9 +1,14 @@
 <div align="center">
 
-<!-- ===== HEADER ===== -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi+I'm+Sumit+Mayani&fontSize=50&animation=fadeIn)
+<!-- ===== TECH STACK ICONS ===== -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vue,mongodb,ts,js&theme=dark" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=900&lines=Next+Js+%7C+React+Js+%7C+Node+Js+%7C+Vue+Js+%7C+MongoDB+%7C+MERN+%7C+Typescript+%7C+Javascript)](https://git.io/typing-svg)
+<!-- ===== HEADER ===== -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=121212&fontColor=1DB954&height=200&text=Hi+I'm+Sumit+Mayani&fontSize=50&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DB954&width=900&lines=Next+Js+%7C+React+Js+%7C+Node+Js+%7C+Vue+Js+%7C+MongoDB+%7C+MERN+%7C+Typescript+%7C+Javascript)](https://git.io/typing-svg)
 <br/>
 
 <!-- ===== ABOUT ME ===== -->
@@ -62,16 +67,16 @@ React-Redux Toolkit RTQ
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Mayani&show_icons=true&theme=tokyonight" alt="Sumit-Mayani GitHub Stats" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Mayani&theme=tokyonight" alt="Sumit-Mayani GitHub Streak" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Mayani&layout=compact&theme=tokyonight" alt="Sumit-Mayani Top Languages" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Mayani&show_icons=true&bg_color=121212&title_color=1DB954&text_color=FFFFFF&icon_color=1DB954&border_color=1DB954" alt="Sumit-Mayani GitHub Stats" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Mayani&background=121212&stroke=1DB954&ring=1DB954&fire=1DB954&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1DB954&sideLabels=1DB954&dates=FFFFFF" alt="Sumit-Mayani GitHub Streak" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Mayani&layout=compact&bg_color=121212&title_color=1DB954&text_color=FFFFFF&icon_color=1DB954&border_color=1DB954" alt="Sumit-Mayani Top Languages" height="195"/>
 </div>
 
 <br/>
 
 <!-- ===== ACTIVITY GRAPH ===== -->
 ### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Mayani&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Mayani&bg_color=121212&color=FFFFFF&line=1DB954&point=FFFFFF&title_color=1DB954)
 
 
 <br/>
@@ -89,6 +94,6 @@ React-Redux Toolkit RTQ
 ![Visitors](https://komarev.com/ghpvc/?username=Sumit-Mayani&color=blueviolet&style=for-the-badge)
 
 <!-- ===== FOOTER ===== -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=121212&height=100&section=footer)
 
 </div>
