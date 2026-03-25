@@ -5,6 +5,8 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vue,mongodb,ts,js&theme=dark" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
 <!-- ===== HEADER ===== -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=121212&fontColor=1DB954&height=200&text=Hi+I'm+Sumit+Mayani&fontSize=50&animation=fadeIn)
 
@@ -29,8 +31,6 @@ Working on exciting frontend projects and expanding my portfolio with Next.js an
 <!-- ===== TECH STACK ===== -->
 ### 🤝 Tech Stack
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-<br/><br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
