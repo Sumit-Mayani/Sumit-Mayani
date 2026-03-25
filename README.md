@@ -62,9 +62,7 @@ React-Redux Toolkit RTQ
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Mayani&theme=tokyo-night)
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-### 🐍 Contribution Grid
-![Snake animation](https://github.com/Sumit-Mayani/Sumit-Mayani/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- ===== CONNECT WITH ME ===== -->
 ### 📫 Connect With Me
