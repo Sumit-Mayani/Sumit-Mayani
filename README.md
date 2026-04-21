@@ -158,6 +158,61 @@ const sumit = {
 
 ---
 
+
+---
+
+<!-- ===== OPEN SOURCE ===== -->
+## 🌍 Open Source Contributions
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 [expressjs/serve-static #242](https://github.com/expressjs/serve-static/pull/242)
+> Fixed incomplete CSP header in redirect responses — added missing `form-action` and `frame-ancestors` directives.
+
+![Security](https://img.shields.io/badge/Security_Fix-F5C518?style=for-the-badge&logo=shield&logoColor=0A0A0A)
+
+</td>
+<td width="50%">
+
+### 🔧 [jshttp/forwarded #45](https://github.com/jshttp/forwarded/pull/45)
+> Fixed `undefined` socket address leaking into result array when client disconnects mid-request.
+
+![Bug Fix](https://img.shields.io/badge/Bug_Fix-0A0A0A?style=for-the-badge&logo=github&logoColor=F5C518)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ===== COMMUNITY ===== -->
+## 💬 Community
+
+[![GitHub Discussions](https://img.shields.io/badge/expressjs%2Fexpress-Discussion_Contributor-F5C518?style=for-the-badge&logo=github&logoColor=0A0A0A)](https://github.com/expressjs/express/discussions/6767#discussioncomment-16647506)
+
+<br/>
+
+---
+
+<!-- ===== SPONSOR ===== -->
+## ❤️ Support Open Source
+
+If my work helped you, consider sponsoring me or the open source tools you use daily.
+
+<a href="https://github.com/sponsors/Sumit-Mayani">
+  <img src="https://img.shields.io/badge/Sponsor-F5C518?style=for-the-badge&logo=github-sponsors&logoColor=0A0A0A" alt="Sponsor"/>
+</a>
+&nbsp;
+<a href="https://github.com/sponsors/sindresorhus">
+  <img src="https://img.shields.io/badge/I_Sponsor_Open_Source-0A0A0A?style=for-the-badge&logo=heart&logoColor=F5C518" alt="I sponsor open source"/>
+</a>
+
+<br/><br/>
+
 <!-- ===== FOOTER ===== -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F5C518&fontColor=0A0A0A&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=65)
 
