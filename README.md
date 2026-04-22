@@ -7,7 +7,7 @@
 
 <!-- ===== TECH STACK ICONS ===== -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vue,mongodb,ts,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vue,mongodb,ts,js&theme=dark" />
 </p>
 
 <br/>
@@ -27,10 +27,10 @@
 
 ```js
 const sumit = {
-  stack    : ["Next.js", "React.js", "Node.js", "Vue.js", "MongoDB", "MERN"],
-  languages: ["TypeScript", "JavaScript", "HTML5", "CSS3", "Sass"],
-  passion  : "Crafting beautiful, responsive web apps",
-  motto    : "Always learning. Always building. Always shipping."
+stack    : ["Next.js", "React.js", "Node.js", "Vue.js", "MongoDB", "MERN"],
+languages: ["TypeScript", "JavaScript", "HTML5", "CSS3", "Sass"],
+passion  : "Crafting beautiful, responsive web apps",
+motto    : "Always learning. Always building. Always shipping."
 };
 ```
 
@@ -83,163 +83,163 @@ const sumit = {
 ## 🌟 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
+<tr>
+<td width="50%">
 
-      ### 🔑 [translation-key-purge](https://github.com/Sumit-Mayani/translation-key-purge)
+### 🔑 [translation-key-purge](https://github.com/Sumit-Mayani/translation-key-purge)
 
-      > CLI tool to detect and remove unused translation keys from your codebase — keeping i18n files clean and lean.
+> CLI tool to detect and remove unused translation keys from your codebase — keeping i18n files clean and lean.
 
-      ![JavaScript](https://img.shields.io/badge/JavaScript-F5C518?style=for-the-badge&logo=javascript&logoColor=0A0A0A)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5C518?style=for-the-badge&logo=javascript&logoColor=0A0A0A)
 
-      </td>
-      <td width="50%">
+</td>
+<td width="50%">
 
-      ### ⚙️ [nextjs-mongoose-crud](https://github.com/Sumit-Mayani/nextjs-mongoose-crud)
+### ⚙️ [nextjs-mongoose-crud](https://github.com/Sumit-Mayani/nextjs-mongoose-crud)
 
-      > Full-stack CRUD application built with Next.js and Mongoose demonstrating REST API best practices.
+> Full-stack CRUD application built with Next.js and Mongoose demonstrating REST API best practices.
 
-      ![JavaScript](https://img.shields.io/badge/JavaScript-F5C518?style=for-the-badge&logo=javascript&logoColor=0A0A0A)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5C518?style=for-the-badge&logo=javascript&logoColor=0A0A0A)
 
-      </td>
-      </tr>
-      <tr>
-      <td width="50%">
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-      ### 🔄 [react-redux-RTK](https://github.com/Sumit-Mayani/react-redux-RTK)
+### 🔄 [react-redux-RTK](https://github.com/Sumit-Mayani/react-redux-RTK)
 
-      > State management boilerplate using React with Redux Toolkit (RTK) — structured, scalable, and production-ready.
+> State management boilerplate using React with Redux Toolkit (RTK) — structured, scalable, and production-ready.
 
-      ![JavaScript](https://img.shields.io/badge/JavaScript-F5C518?style=for-the-badge&logo=javascript&logoColor=0A0A0A)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5C518?style=for-the-badge&logo=javascript&logoColor=0A0A0A)
 
-      </td>
-      <td width="50%">
+</td>
+<td width="50%">
 
-      ### 💼 More Coming Soon...
+### 💼 More Coming Soon...
 
-      > Currently working on exciting new projects.
-      > Watch this space! ⚡
+> Currently working on exciting new projects.
+> Watch this space! ⚡
 
-      ![WIP](https://img.shields.io/badge/COMING_SOON-0A0A0A?style=for-the-badge&logo=github&logoColor=F5C518)
+![WIP](https://img.shields.io/badge/COMING_SOON-0A0A0A?style=for-the-badge&logo=github&logoColor=F5C518)
 
-      </td>
-      </tr>
-      </table>
+</td>
+</tr>
+</table>
 
-      <br/>
+<br/>
 
-      ---
+---
 
-      <!-- ===== GITHUB STATS ===== -->
-      ## 📊 GitHub Stats
+<!-- ===== GITHUB STATS ===== -->
+## 📊 GitHub Stats
 
-      ![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit-Mayani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0A0A&title_color=F5C518&icon_color=F5C518&text_color=ffffff&ring_color=F5C518)
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Mayani&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0A0A&title_color=F5C518&text_color=ffffff)
+![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit-Mayani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0A0A&title_color=F5C518&icon_color=F5C518&text_color=ffffff&ring_color=F5C518)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Mayani&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0A0A&title_color=F5C518&text_color=ffffff)
 
-      <br/>
+<br/>
 
-      <!-- ===== STREAK STATS ===== -->
-      ## 🔥 Streak Stats
+<!-- ===== STREAK STATS ===== -->
+## 🔥 Streak Stats
 
-      ![GitHub Streak](https://streak-stats.demolab.com?user=Sumit-Mayani&theme=github-dark-blue&hide_border=true&background=0A0A0A&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=F5C518&dates=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sumit-Mayani&theme=github-dark-blue&hide_border=true&background=0A0A0A&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=F5C518&dates=ffffff)
 
-      <br/>
+<br/>
 
-      <!-- ===== ACTIVITY GRAPH ===== -->
-      ## 📈 Contribution Graph
+<!-- ===== ACTIVITY GRAPH ===== -->
+## 📈 Contribution Graph
 
-      ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Mayani&bg_color=0A0A0A&color=F5C518&line=F5C518&point=FFFFFF&title_color=F5C518&border_color=F5C518)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Mayani&bg_color=0A0A0A&color=F5C518&line=F5C518&point=FFFFFF&title_color=F5C518&border_color=F5C518)
 
-      <br/>
+<br/>
 
-      ---
+---
 
-      <!-- ===== CONNECT ===== -->
-      ## 📫 Let's Connect
+<!-- ===== CONNECT ===== -->
+## 📫 Let's Connect
 
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-        <img src="https://img.shields.io/badge/LinkedIn-F5C518?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn"/>
-        </a>
-        &nbsp;
-        <a href="https://twitter.com/YOUR_TWITTER">
-          <img src="https://img.shields.io/badge/Twitter-F5C518?style=for-the-badge&logo=twitter&logoColor=0A0A0A" alt="Twitter"/>
-          </a>
-          &nbsp;
-          <a href="mailto:YOUR_EMAIL@example.com">
-            <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=F5C518" alt="Email"/>
-            </a>
-            &nbsp;
-            <a href="https://github.com/Sumit-Mayani">
-              <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=F5C518" alt="GitHub"/>
-              </a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-F5C518?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/YOUR_TWITTER">
+<img src="https://img.shields.io/badge/Twitter-F5C518?style=for-the-badge&logo=twitter&logoColor=0A0A0A" alt="Twitter"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=F5C518" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/Sumit-Mayani">
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=F5C518" alt="GitHub"/>
+</a>
 
-              <br/><br/>
+<br/><br/>
 
-              <!-- ===== VISITOR COUNTER ===== -->
-              ![Visitors](https://komarev.com/ghpvc/?username=Sumit-Mayani&color=F5C518&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- ===== VISITOR COUNTER ===== -->
+![Visitors](https://komarev.com/ghpvc/?username=Sumit-Mayani&color=F5C518&style=for-the-badge&label=PROFILE+VIEWS)
 
-              <br/>
+<br/>
 
-              ---
-              ---
+---
+---
 
-              <!-- ===== OPEN SOURCE ===== -->
-              ## 🌍 Open Source Contributions
+<!-- ===== OPEN SOURCE ===== -->
+## 🌍 Open Source Contributions
 
-              <table>
-              <tr>
-              <td width="50%">
+<table>
+<tr>
+<td width="50%">
 
-              ### 🔧 [expressjs/serve-static #242](https://github.com/expressjs/serve-static/pull/242)
+### 🔧 [expressjs/serve-static #242](https://github.com/expressjs/serve-static/pull/242)
 
-              > Fixed incomplete CSP header in redirect responses — added missing `form-action` and `frame-ancestors` directives.
+> Fixed incomplete CSP header in redirect responses — added missing `form-action` and `frame-ancestors` directives.
 
-              ![Security](https://img.shields.io/badge/Security_Fix-F5C518?style=for-the-badge&logo=shield&logoColor=0A0A0A)
+![Security](https://img.shields.io/badge/Security_Fix-F5C518?style=for-the-badge&logo=shield&logoColor=0A0A0A)
 
-              </td>
-              <td width="50%">
+</td>
+<td width="50%">
 
-              ### 🔧 [jshttp/forwarded #45](https://github.com/jshttp/forwarded/pull/45)
+### 🔧 [jshttp/forwarded #45](https://github.com/jshttp/forwarded/pull/45)
 
-              > Fixed `undefined` socket address leaking into result array when client disconnects mid-request.
+> Fixed `undefined` socket address leaking into result array when client disconnects mid-request.
 
-              ![Bug Fix](https://img.shields.io/badge/Bug_Fix-0A0A0A?style=for-the-badge&logo=github&logoColor=F5C518)
+![Bug Fix](https://img.shields.io/badge/Bug_Fix-0A0A0A?style=for-the-badge&logo=github&logoColor=F5C518)
 
-              </td>
-              </tr>
-              </table>
+</td>
+</tr>
+</table>
 
-              <br/>
+<br/>
 
-              ---
+---
 
-              <!-- ===== COMMUNITY ===== -->
-              ## 💬 Community
+<!-- ===== COMMUNITY ===== -->
+## 💬 Community
 
-              [![GitHub Discussions](https://img.shields.io/badge/expressjs%2Fexpress-Discussion_Contributor-F5C518?style=for-the-badge&logo=github&logoColor=0A0A0A)](https://github.com/expressjs/express/discussions/6767#discussioncomment-16647506)
+[![GitHub Discussions](https://img.shields.io/badge/expressjs%2Fexpress-Discussion_Contributor-F5C518?style=for-the-badge&logo=github&logoColor=0A0A0A)](https://github.com/expressjs/express/discussions/6767#discussioncomment-16647506)
 
-              <br/>
+<br/>
 
-              ---
+---
 
-              <!-- ===== SPONSOR ===== -->
-              ## ❤️ Support Open Source
+<!-- ===== SPONSOR ===== -->
+## ❤️ Support Open Source
 
-              If my work helped you, consider sponsoring me or the open source tools you use daily.
+If my work helped you, consider sponsoring me or the open source tools you use daily.
 
-              <a href="https://github.com/sponsors/Sumit-Mayani">
-                <img src="https://img.shields.io/badge/Sponsor-F5C518?style=for-the-badge&logo=github-sponsors&logoColor=0A0A0A" alt="Sponsor"/>
-                </a>
-                &nbsp;
-                <a href="https://github.com/sponsors/sindresorhus">
-                  <img src="https://img.shields.io/badge/I_Sponsor_Open_Source-0A0A0A?style=for-the-badge&logo=heart&logoColor=F5C518" alt="I sponsor open source"/>
-                  </a>
+<a href="https://github.com/sponsors/Sumit-Mayani">
+<img src="https://img.shields.io/badge/Sponsor-F5C518?style=for-the-badge&logo=github-sponsors&logoColor=0A0A0A" alt="Sponsor"/>
+</a>
+&nbsp;
+<a href="https://github.com/sponsors/sindresorhus">
+<img src="https://img.shields.io/badge/I_Sponsor_Open_Source-0A0A0A?style=for-the-badge&logo=heart&logoColor=F5C518" alt="I sponsor open source"/>
+</a>
 
-                  <br/><br/>
+<br/><br/>
 
-                  <!-- ===== FOOTER ===== -->
-                  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F5C518&fontColor=0A0A0A&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=65)
+<!-- ===== FOOTER ===== -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F5C518&fontColor=0A0A0A&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=65)
 
-                  </div>
-  </tr>
+</div>
+</tr>
 </table>
