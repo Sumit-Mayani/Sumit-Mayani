@@ -8,7 +8,7 @@
 <!-- ===== TECH STACK ICONS ===== -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vue,mongodb,ts,js&theme=dark" />
-</p>p>
+</p>
 
 <br/>
 
