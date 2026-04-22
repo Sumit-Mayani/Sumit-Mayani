@@ -241,5 +241,3 @@ If my work helped you, consider sponsoring me or the open source tools you use d
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F5C518&fontColor=0A0A0A&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=65)
 
 </div>
-</tr>
-</table>
