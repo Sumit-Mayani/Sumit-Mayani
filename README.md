@@ -130,11 +130,6 @@ motto    : "Always learning. Always building. Always shipping."
 
 ---
 
-<!-- ===== GITHUB STATS ===== -->
-## 📊 GitHub Stats
-
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit-Mayani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0A0A&title_color=F5C518&icon_color=F5C518&text_color=ffffff&ring_color=F5C518&cb=v2)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Mayani&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0A0A&title_color=F5C518&text_color=ffffff&cb=v2)
 
 <br/>
 
